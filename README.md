@@ -1,10 +1,4 @@
-<!--
-baldari.dev style README
-Palette reference:
-  accent:   #54e3c2
-  accent-2: #7aa7ff
-  bg:       #0a0b0f
--->
+<!-- baldari.dev style README (dark + teal/blue accents) -->
 
 <div align="center">
 
@@ -13,25 +7,28 @@ Palette reference:
 />
 
 <p>
-  <a href="https://baldari.dev/">
-    <img alt="Website" src="https://img.shields.io/badge/baldari.dev-0a0b0f?style=for-the-badge&logo=vercel&logoColor=f5f5f5">
-  </a>
-  <a href="https://www.linkedin.com/in/antonio-baldari/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a0b0f?style=for-the-badge&logo=linkedin&logoColor=7aa7ff">
-  </a>
-  <a href="mailto:contact@baldari.dev">
-    <img alt="Email" src="https://img.shields.io/badge/contact@baldari.dev-0a0b0f?style=for-the-badge&logo=gmail&logoColor=54e3c2">
-  </a>
-</p>
-
-<p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Sora&size=16&pause=1100&color=7AA7FF&center=true&vCenter=true&multiline=true&width=900&height=54&lines=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20Automation;LangChain%20%7C%20LangGraph%20%7C%20LangSmith%20%7C%20LangFlow"
+    src="https://readme-typing-svg.demolab.com?font=Sora&size=16&pause=1100&color=7AA7FF&center=true&vCenter=true&multiline=true&width=920&height=54&lines=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20Automation;LangChain%20%7C%20LangGraph%20%7C%20LangSmith%20%7C%20LangFlow"
     alt="Typing intro"
   />
 </p>
 
 <p><strong>Milano / Bruxelles</strong></p>
+
+<!-- Icon boxes (uniform) -->
+<p>
+  <a href="https://baldari.dev/">
+    <img alt="Website" src="https://img.shields.io/badge/Website-baldari.dev-0a0b0f?style=flat&labelColor=0a0b0f&color=0a0b0f&logo=vercel&logoColor=54e3c2">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/antonio-baldari/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-antonio--baldari-0a0b0f?style=flat&labelColor=0a0b0f&color=0a0b0f&logo=linkedin&logoColor=7aa7ff">
+  </a>
+  &nbsp;
+  <a href="mailto:contact@baldari.dev">
+    <img alt="Email" src="https://img.shields.io/badge/Email-contact%40baldari.dev-0a0b0f?style=flat&labelColor=0a0b0f&color=0a0b0f&logo=gmail&logoColor=54e3c2">
+  </a>
+</p>
 
 </div>
 
@@ -44,49 +41,19 @@ I build agentic systems that blend automation, data, and marketing strategy to d
 
 ---
 
-## What I do in the LangChain ecosystem
+## LangChain ecosystem focus
 - **LangChain**: tool-use agents, RAG pipelines, function calling, structured outputs
-- **LangGraph**: deep agents with state, routing, multi-step planning, retries, and human-in-the-loop
+- **LangGraph**: deep agents with state, routing, multi-step planning, retries, human-in-the-loop
 - **LangSmith**: tracing, dataset-based evaluation, regression checks, prompt/version tracking
-- **LangFlow**: production-ready visual agent workflows, custom components, and integration layers
+- **LangFlow**: production-ready visual agent workflows, custom components, integration layers
 
 ---
 
 ## Core capabilities
-- Deep agent design: **planning, routing, memory, tool orchestration, guardrails**
-- Retrieval and knowledge systems: **RAG, hybrid search patterns, chunking strategies**
-- Reliability: **observability, evals, failure modes, cost control**
-- Integrations: **CRMs, web sources, internal tools, databases**
-
----
-
-## Tech stack
-**Languages**
-- Python, JavaScript/TypeScript
-
-**Agent stack**
-- LangChain, LangGraph, LangSmith, LangFlow
-
-**Ops**
-- Docker, deployment basics, pragmatic DevOps
-
----
-
-## Links
-- Website: https://baldari.dev
-- LinkedIn: https://www.linkedin.com/in/antonio-baldari/
-- GitHub: https://github.com/ElBaldo1
-- Email: contact@baldari.dev
-
----
-
-## GitHub analytics
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ElBaldo1&show_icons=true&hide_border=true&title_color=7aa7ff&icon_color=54e3c2&text_color=c9ccd6&bg_color=0a0b0f" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ElBaldo1&hide_border=true&ring=7aa7ff&fire=54e3c2&currStreakLabel=c9ccd6&sideLabels=c9ccd6&dates=c9ccd6&background=0a0b0f" />
-</div>
-
----
+- Deep agent design: planning, routing, memory, tool orchestration, guardrails
+- Retrieval systems: RAG patterns, chunking, hybrid approaches
+- Reliability: observability, evals, failure modes, cost control
+- Integrations: CRMs, web sources, internal tools, databases
 
 <div align="center">
   <sub><strong>Keep building, keep evolving.</strong> Step by step, with maximum efficiency.</sub>
