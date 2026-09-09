@@ -3,12 +3,12 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0a0b0f&height=130&section=header&text=Antonio%20Baldari&fontSize=44&fontColor=f5f5f5&desc=baldari.dev%20%7C%20Product%20Engineer&descAlignY=75&descSize=16"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0a0b0f&height=130&section=header&text=Antonio%20Baldari&fontSize=44&fontColor=f5f5f5&desc=baldari.dev%20%7C%20AI%20Applied%20Engineer&descAlignY=75&descSize=16"
 />
 
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Sora&size=16&pause=1100&color=7AA7FF&center=true&vCenter=true&multiline=true&width=920&height=72&lines=Product%20Engineer%20%7C%20SaaS%2C%20automation%20%26%20growth%20systems;I%20turn%20unclear%20workflows%20into%20useful%20products;Discovery%20%E2%86%92%20UX%20%E2%86%92%20Full-stack%20build%20%E2%86%92%20Metrics"
+    src="https://readme-typing-svg.demolab.com?font=Sora&size=16&pause=1100&color=7AA7FF&center=true&vCenter=true&multiline=true&width=920&height=72&lines=AI%20Applied%20Engineer%20%7C%20LLM%20apps%2C%20RAG%20%26%20agentic%20workflows;I%20turn%20business%20problems%20into%20production%20AI%20systems;Discovery%20%E2%86%92%20Prototype%20%E2%86%92%20Deploy%20%E2%86%92%20Iterate"
     alt="Typing intro"
   />
 </p>
@@ -25,14 +25,14 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-antonio--baldari-0a0b0f?style=flat&labelColor=0a0b0f&color=0a0b0f&logo=linkedin&logoColor=7aa7ff">
   </a>
   &nbsp;
-  <a href="mailto:contact@baldari.dev">
-    <img alt="Email" src="https://img.shields.io/badge/Email-contact%40baldari.dev-0a0b0f?style=flat&labelColor=0a0b0f&color=0a0b0f&logo=gmail&logoColor=54e3c2">
+  <a href="mailto:antonio@baldari.dev">
+    <img alt="Email" src="https://img.shields.io/badge/Email-antonio%40baldari.dev-0a0b0f?style=flat&labelColor=0a0b0f&color=0a0b0f&logo=gmail&logoColor=54e3c2">
   </a>
 </p>
 
 <p>
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Product%20Engineering-54e3c2?style=for-the-badge&labelColor=0a0b0f">
-  <img alt="Strength" src="https://img.shields.io/badge/Strength-Product%20thinking%20%2B%20execution-7aa7ff?style=for-the-badge&labelColor=0a0b0f">
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Applied%20AI-54e3c2?style=for-the-badge&labelColor=0a0b0f">
+  <img alt="Strength" src="https://img.shields.io/badge/Strength-LLM%20apps%20%2B%20agentic%20workflows-7aa7ff?style=for-the-badge&labelColor=0a0b0f">
   <img alt="Mode" src="https://img.shields.io/badge/Mode-Ship%2C%20measure%2C%20iterate-f5f5f5?style=for-the-badge&labelColor=0a0b0f">
 </p>
 
@@ -41,62 +41,62 @@
 ---
 
 ## About
-I build practical digital products that connect user needs, business goals, and reliable engineering. I am strongest where product thinking and execution meet: understanding the problem, shaping the experience, building the system, and improving it with real feedback.
+I am an AI Applied Engineer with a software engineering background in Python and TypeScript, building AI applications end to end: from business problem and stakeholder requirements to API integration and production deployment. I am strongest where LLM applications, RAG and agentic workflows meet reliable backend engineering.
 
-**Now:** focused on my master's degree. Open to selected conversations for future product engineering roles, internships, and product-led technical projects.
+**Now:** Product Engineer at EEIP, focused on AI applications in production. Open to selected conversations for AI applied engineering roles and applied AI projects.
 
 ---
 
 ## Recruiter snapshot
 | What I bring | How it shows up |
 | --- | --- |
-| Product mindset | I frame problems before building features |
-| Full-stack execution | I can move from UX flow to API, database, integrations, and deployment |
-| Business awareness | I care about activation, retention, conversion, efficiency, and cost |
-| AI fluency | I use AI when it improves the product, not as decoration |
+| Applied AI | LLM applications, RAG and agentic workflows shipped to production, not demos |
+| Full-stack execution | From FastAPI backends and PostgreSQL/pgvector to API integrations and deployment |
+| Business awareness | I translate stakeholder requirements into shipped, measurable AI features |
+| Ownership | I own delivery end to end: discovery, prototyping, release, feedback-driven iteration |
 | International profile | Based around Milano / Bruxelles, comfortable in cross-functional contexts |
 
 ---
 
-## Product engineering focus
-- **Discovery to delivery**: problem framing, feature scoping, MVPs, iteration loops
-- **User experience**: clean flows, usable interfaces, onboarding, activation, retention
-- **Business impact**: growth experiments, funnel improvements, workflow automation
-- **Technical execution**: full-stack implementation, integrations, data flows, production quality
-- **AI as a product lever**: agents, RAG, automation, and LLM workflows when they solve real user problems
+## Applied AI focus
+- **LLM applications & RAG**: retrieval pipelines, vector search with Qdrant, grounded generation
+- **Agentic workflows**: LangChain, LangGraph, Langflow, tool-use agents, structured outputs
+- **Backend & integration**: async FastAPI, PostgreSQL, pgvector, third-party API integration
+- **Deployment & cloud**: Docker, CI/CD (GitHub Actions), AWS
+- **Delivery ownership**: stakeholder discovery, requirements, prototyping, production deployment, iteration
 
 ---
 
 ## I am useful when
-- A team needs someone who can turn an ambiguous idea into a concrete product direction
-- A workflow is slow, manual, or fragmented and needs a better digital experience
-- A prototype needs to become a usable product with clean UX and reliable engineering
-- AI can reduce friction, automate operations, or make an existing product smarter
+- A team needs an AI application taken from prototype to production, owned end to end
+- A manual, high-volume workflow needs to become an AI-driven system (e.g. lead generation, data processing)
+- RAG or agentic workflows need to be grounded in real business data and shipped reliably
+- Backend and integration work is needed to connect AI workflows to existing systems and data
 
 ---
 
 ## Core capabilities
-- Product strategy: translating vague ideas into focused roadmaps and shippable releases
-- Full-stack product builds: frontends, APIs, databases, authentication, dashboards
-- Workflow automation: CRMs, internal tools, data pipelines, operational systems
-- Measurement: analytics, feedback loops, experiments, reliability, cost control
-- Applied AI: LangChain, LangGraph, LangSmith, LangFlow, structured outputs, tool-use agents
+- **Applied AI**: LLM applications, RAG, agentic workflows, LangChain, LangGraph, Langflow, Qdrant
+- **Backend & integration**: FastAPI, async, API integration, PostgreSQL, pgvector
+- **Deployment & cloud**: Docker, CI/CD (GitHub Actions), AWS
+- **Programming**: Python, TypeScript, SQL
+- **Delivery**: stakeholder discovery, requirements to release, feedback-driven iteration
 
 ---
 
 <details>
-<summary><strong>Product engineering story</strong></summary>
+<summary><strong>AI applied engineering story</strong></summary>
 
-I like building products from the inside out: start with the user's real workflow, find the friction, design the simplest useful path, then ship something that can be tested quickly.
+I like building AI applications from the inside out: start with the real business workflow, ground the system in real data, design the simplest reliable path from prototype to production, then iterate on real feedback.
 
-My technical background helps me avoid vague product work. I can reason about data models, APIs, automation, AI workflows, and operational constraints while still keeping the user experience clear and lightweight.
+At EEIP, I replaced a manual lead generation and outreach workflow with an AI application processing 1,000+ leads per day, using Python, LangChain, LangGraph and Langflow to build agentic workflows, with async FastAPI backends and RAG pipelines on Qdrant to ground the system in internal knowledge.
 
 </details>
 
 <details>
-<summary><strong>AI and automation layer</strong></summary>
+<summary><strong>Engineering foundations</strong></summary>
 
-AI is part of my toolkit when it creates measurable product value. I work with agentic workflows, retrieval systems, structured outputs, tool-use agents, evaluations, and observability, but I connect those pieces to user outcomes instead of treating them as standalone demos.
+My software engineering background in Python and TypeScript keeps my AI work grounded: I can reason about APIs, data models, async backends, and deployment while connecting agentic workflows and RAG pipelines to real business outcomes instead of standalone demos.
 
 </details>
 
@@ -104,7 +104,8 @@ AI is part of my toolkit when it creates measurable product value. I work with a
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Sora&size=14&pause=1200&color=54E3C2&center=true&vCenter=true&width=760&height=36&lines=Build%20useful%20things.;Ship%2C%20learn%2C%20improve.;Product%20first%2C%20technology%20with%20purpose."
+    src="https://readme-typing-svg.demolab.com?font=Sora&size=14&pause=1200&color=54E3C2&center=true&vCenter=true&width=760&height=36&lines=Build%20AI%20that%20ships.;Ground%20it%2C%20deploy%20it%2C%20iterate.;Applied%20AI%2C%20engineered%20end%20to%20end."
     alt="Footer typing"
   />
 </div>
+</content>
